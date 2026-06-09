@@ -1,1 +1,3 @@
 this is my file
+this is the second line content of that same line
+adnd thus is the third line content
